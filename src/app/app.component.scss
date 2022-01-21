@@ -1,0 +1,11 @@
+@import '../styles.scss';
+
+$primary-color: #000000;
+
+div {
+  color: $primary-color;
+
+  h1 {
+    color: $primary-color;
+  }
+}
